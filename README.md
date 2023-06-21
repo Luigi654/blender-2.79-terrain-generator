@@ -32,3 +32,5 @@ Generates a terrain mesh with various options.
 ## Compatibility
 
 - Blender: 2.79.0
+
+donation: paypal.me/notester32
