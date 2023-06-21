@@ -33,4 +33,6 @@ Generates a terrain mesh with various options.
 
 - Blender: 2.79.0
 
+demo: https://youtu.be/1sKWJHPHHjg
+
 donation: paypal.me/notester32
